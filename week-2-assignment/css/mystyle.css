@@ -1,4 +1,42 @@
 h1 {
-  color: blue;
+  color: red;
+  text-align: center;
 }
-body {background-color: powderblue;}
+#container
+{
+	background-color: blue;
+	position: relative;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+div {
+}
+#box {
+	margin-right: 80%;
+	border-style: solid;
+	border-width: 5px;
+	border-color: black;
+	position: relative;
+	margin-bottom: 30px
+	}
+#box2{
+	margin-right: 80%;
+	border-style: solid;
+	border-width: 5px;
+	border-color: black;
+	position: relative;
+	margin-bottom: 30px
+}
+#box3{
+	margin-right: 80%;
+	border-style: solid;
+	border-width: 5px;
+	border-color: black;
+	position: relative;
+
+}
+#content
+{
+	padding-left: 5px;
+}
+
