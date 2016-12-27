@@ -26,10 +26,7 @@ as described in the requirements and the steps in order to complete this
 assignment.
 WARNING!!! WARNING!!!
 */
-<<<<<<< HEAD
-=======
 
->>>>>>> 8ddbe9a3dae4f902eca06df9111caad25f2a91f6
 // STEP 1: (NOTHING TO DO. ALREADY DONE FOR YOU)
 // Wrap the entire contents of script.js inside of an IIFE
 // See Lecture 52, part 2
@@ -66,8 +63,4 @@ for (var i = 0; i < names.length; i++) {
   }
 }
 
-<<<<<<< HEAD
-}());
-=======
 })();
->>>>>>> 8ddbe9a3dae4f902eca06df9111caad25f2a91f6
